@@ -1,0 +1,45 @@
+/* Custom Styles for Clear Content Plugin Admin Settings Page */
+
+/* General Styles for the Settings Page */
+.wrap {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.wrap h1 {
+    font-size: 24px;
+    color: #0073aa;
+    border-bottom: 2px solid #0073aa;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Button Styles */
+.button.button-danger {
+    background-color: #dc3232;
+    border-color: #dc3232;
+    color: #fff;
+}
+
+.button.button-danger:hover {
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+
+/* Checkbox Styles */
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Form Elements */
+form p {
+    margin-bottom: 10px;
+}
+
+/* Message Styles */
+.updated, .error {
+    margin: 20px 0;
+}
